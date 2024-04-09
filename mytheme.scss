@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+
+// Include theme-specific fonts
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
+
+
+// fonts
+$mainFont: 'Open Sans', sans-serif;
+$headingFont: 'Montserrat', Impact, sans-serif;
+// $font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
+//  FreeSerif, serif !default;
+
+$presentation-font-size-root: 26px;
+$code-block-font-size: 0.7em;
+
+$presentation-title-slide-text-align: left;
